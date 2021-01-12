@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.csproj.CoreCompileInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.pdb
